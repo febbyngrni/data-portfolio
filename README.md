@@ -48,3 +48,24 @@ This project helps **a retail company** stabilize revenue by identifying custome
 This project evaluates the effectiveness of an ad campaign by measuring its impact on conversion rates through **A/B Testing**. By comparing ad exposure to a PSA, the company aims to refine its marketing strategy for better ROI. Statistical analysis (Z-test: 6.1291, p-value: 0.0000) confirms that the **ad significantly increased conversion rates**.
 
 #
+
+## Additional Projects
+- [**Designing Relational Database: Used Cars Database System**](https://github.com/febbyngrni/used-cars-database) - [**Report**](https://medium.com/@febbyngrni/designing-relational-database-used-cars-database-system-4a2d90dc38d4)
+- [**Dashboard: Superstore Sales Analysis**](https://public.tableau.com/app/profile/febby.anggraini/viz/SuperstoreSalesDashboard_17140615746100/Dashboard1) - [**Report**](https://medium.com/@febbyngrni/dashboard-superstore-sales-analysis-0996bd0e16b3)
+- [**Dashboard: HR Attrition Analysis**](https://public.tableau.com/app/profile/febby.anggraini/viz/HRAnalyticsDashboard_17145444142090/Dashboard8) - [**Report**](https://medium.com/@febbyngrni/dashboard-hr-attrition-analytics-9be3fa1c00f9)
+- [**Data Exploration: Crime in Los Angeles**](https://www.datacamp.com/datalab/w/e3a57341-d526-4c83-814e-41587ca3a91d) - [**Report**](https://medium.com/@febbyngrni/exploratory-data-analysis-crime-in-la-f39eb2345f4b)
+
+## Analytics Tools
+* **Data Collection and Storage:** MySQL and PostgreSQL, Spreadsheet .
+
+* **Data Processing and Analytics:** Jupyter Notebook, Pandas, Numpy.
+
+* **Development:** Python and Git.
+
+* **BI Tools:** PowerBI, Tableau, Looker Studio.
+
+* **Data Visualization:** Matplotlib and Seaborn.
+
+* **Machine Learning Modeling:** Classification, Regression, Clustering.
+
+* **Machine Learning Deployment:** FastAPI and Docker.
